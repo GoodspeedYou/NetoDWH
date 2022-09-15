@@ -1,5 +1,4 @@
-# NetoDWH
-Final neto dwh 
+# NetoDWH-20
 
 
 Объединяющий трансформации Job - dwh_final.kjb
